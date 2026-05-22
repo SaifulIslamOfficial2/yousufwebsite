@@ -79,7 +79,7 @@ const Contact = () => {
             <div className="flex gap-3 items-center"><FaEnvelope className="text-[#1E6FB8]" /><div><p className="text-sm text-gray-400">{cp.emailLabel}</p><p className="font-semibold">{data.email}</p></div></div>
             <div className="flex gap-3 items-center"><FaMapMarkerAlt className="text-[#1E6FB8]" /><div><p className="text-sm text-gray-400">{cp.locationLabel}</p><p className="font-semibold">{data.location[lang]}</p></div></div>
           </div>
-          <div className="border-l pl-6">
+          <div className="border-l pl-5">
             {data.hours.map((h, i) => <p key={i} className="text-sm text-gray-600 mb-2">🟢 {h[lang]}</p>)}
           </div>
           <div><img src={officePic} alt="office" className="rounded-xl w-full h-[180px] object-cover" /></div>
