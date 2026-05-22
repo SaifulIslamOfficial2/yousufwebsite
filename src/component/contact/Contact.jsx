@@ -8,7 +8,7 @@ const contactData = {
   MADINAH: {
     name: { en: "Madinah", bn: "মদিনা" },
     sub: { en: "Main Branch", bn: "প্রধান শাখা" },
-    phone: "+966 57 146 1938", email: "madinah@yousufconsultancy.com",
+    phone: "+966 57 146 1938", email: "yousufconsultancy46@gmail.com",
     location: { en: "Madinah, Saudi Arabia", bn: "মদিনা, সৌদি আরব" },
     hours: [
       { en: "Friday: 2 PM - 2 AM", bn: "শুক্রবার: বিকাল ২টা - রাত ২টা" },
@@ -19,7 +19,7 @@ const contactData = {
   JEDDAH: {
     name: { en: "Jeddah", bn: "জেদ্দা" },
     sub: { en: "Saudi Arabia", bn: "সৌদি আরব" },
-    phone: "+966 50 983 2826", email: "jeddah@yousufconsultancy.com",
+    phone: "+966 50 983 2826", email: "yousufconsultancy46@gmail.com",
     location: { en: "Jeddah, Saudi Arabia", bn: "জেদ্দা, সৌদি আরব" },
     hours: [
       { en: "Friday: 2 PM - 2 AM", bn: "শুক্রবার: বিকাল ২টা - রাত ২টা" },
